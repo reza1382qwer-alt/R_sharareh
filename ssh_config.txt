@@ -1,2 +1,2 @@
 ssh://cpivpn6611169599:33583424@4i23n5io.zibayeman.com:41212#%20Sharareh
-hysteria2://5rf4wxb2pzgl14w6@qhwo869z.zibayeman.com:27819?alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&obfs=salamander&obfs-password=e9z5p91s2qh2txwu&security=tls&sni=qhwo869z.zibayeman.com#Hy-32-hy6611169599
+hysteria2://5rf4wxb2pzgl14w6@qhwo869z.zibayeman.com:27819?security=tls&obfs=salamander&obfs-password=e9z5p91s2qh2txwu&insecure=0&sni=qhwo869z.zibayeman.com#sharareh
